@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: Vendor List
+## Notes: Make a list of things to always vendor
+## Author: ehawne
+## SavedVariablesPerCharacter: VendorListDB
+
+VendorList.lua
