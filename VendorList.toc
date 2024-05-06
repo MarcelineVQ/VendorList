@@ -2,6 +2,7 @@
 ## Title: Vendor List
 ## Notes: Make a list of things to always vendor
 ## Author: ehawne
+## Version: 1.0
 ## SavedVariablesPerCharacter: VendorListDB
 
 VendorList.lua
